@@ -1,0 +1,2 @@
+# docs
+SOLA Registry documentation
